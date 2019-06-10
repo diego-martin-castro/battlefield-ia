@@ -1,4 +1,4 @@
-package ia.battle.example;
+package ia.battle.malito;
 
 public class WarriorAttack {
 
