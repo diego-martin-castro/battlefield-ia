@@ -1,4 +1,4 @@
-package ia.battle.example;
+package ia.battle.malito;
 
 import ia.battle.core.actions.Attack;
 import ia.battle.core.actions.Move;
